@@ -35,10 +35,16 @@
         "cordova-plugin-contacts": {
             "CONTACTS_USAGE_DESCRIPTION": " ",
             "PACKAGE_NAME": "com.designbest.alinovietanzi"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.designbest.alinovietanzi"
         }
     },
     "dependent_plugins": {
         "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.designbest.alinovietanzi"
+        },
+        "es6-promise-plugin": {
             "PACKAGE_NAME": "com.designbest.alinovietanzi"
         }
     }
